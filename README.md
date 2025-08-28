@@ -2,7 +2,6 @@
 
 <p align="center">
   🎓 MSc @ <strong>University College London</strong><br/>
-  🎓 BBA @ <strong>Macau University of Science and Technology</strong><br/>
   🧬 Passionate about <strong>Medical AI</strong> · <strong>Rare Diseases</strong> · <strong>Model Interpretability</strong><br/>
 </p>
 
