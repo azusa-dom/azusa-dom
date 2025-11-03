@@ -55,11 +55,4 @@ That's what I was told. By the time I got treatment, I'd missed the critical win
   <em>"The future of healthcare isn't just about algorithms — it's about humanizing them."</em>
 </p>
 
----
 
-## 主要改动：
-
-✅ **学位信息更新**：`MSc with Distinction` + `Dissertation: 79/100`  
-✅ **简介精简**：从3段压缩到核心故事，更有冲击力  
-✅ **保留情感共鸣**：个人经历 + 使命感的叙事结构  
-✅ **专业度提升**：突出学术成绩和研究深度
