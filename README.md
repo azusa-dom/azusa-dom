@@ -1,4 +1,4 @@
-<h1 align="center">Ziying Huo · 霍梓盈</h1>
+<h1 align="center">zoya</h1>
 
 <p align="center">
   PhD researcher (AI4BioImaging) @ <strong>University of Manchester</strong><br/>
