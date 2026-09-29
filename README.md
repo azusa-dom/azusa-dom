@@ -3,7 +3,7 @@
 <p align="center">
   PhD researcher (AI4BioImaging) @ <strong>University of Manchester</strong><br/>
   Cardiac cine MRI · myocardial motion &amp; strain · medical image analysis<br/>
-  Full-stack developer (React, Swift/SwiftUI) · Master's @ <strong>University College London</strong>
+  Full-stack developer · Master's @ <strong>University College London</strong>
 </p>
 
 <p align="center">
