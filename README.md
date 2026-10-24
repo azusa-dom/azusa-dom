@@ -3,7 +3,7 @@
 <p align="center">
   PhD researcher (AI4BioImaging) · <strong>University of Manchester</strong>, Faculty of Biology, Medicine and Health<br/>
   Myocardial motion and regional strain from cine cardiac MRI<br/>
-  MSc @ <strong>UCL</strong> · full-stack development (React, SwiftUI) at GoUni, London
+  MSc @ <strong>UCL</strong> · formerly full-stack developer at GoUni, London (2025–26)
 </p>
 
 <p align="center">
