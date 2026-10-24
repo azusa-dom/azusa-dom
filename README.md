@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zoyahuo.space">Website</a> ·
+  <a href="https://azusa-dom.github.io/zoyahuo-site/">Website</a> ·
   <a href="https://orcid.org/0009-0003-1090-8784">ORCID</a> ·
   <a href="mailto:ziying.huo@postgrad.manchester.ac.uk">Email</a>
 </p>
@@ -24,7 +24,7 @@ I work on myocardial motion estimation and regional strain measurement from cine
 
 ### Selected repositories
 
-- [**zoyahuo-site**](https://github.com/azusa-dom/zoyahuo-site): source of my personal website, hosted on GitHub Pages.
+- [**zoyahuo-site**](https://github.com/azusa-dom/zoyahuo-site): source of my personal website ([zoyahuo.space](https://azusa-dom.github.io/zoyahuo-site/)), hosted on GitHub Pages.
 - [**FINAL_AS**](https://github.com/azusa-dom/FINAL_AS): dual-modality AI framework for axial spondyloarthritis (structured health records + sacroiliac joint MRI, explained with SHAP and Grad-CAM), the code behind my master's thesis. The imaging cohort was small, so that part is a methodological validation rather than a clinical result.
 - [**AS-CardioAI**](https://github.com/azusa-dom/AS-CardioAI): dynamic cardiovascular risk prediction in ankylosing spondylitis with trustworthy AI.
 - [**inflam-risk-radar**](https://github.com/azusa-dom/inflam-risk-radar): daily arXiv literature crawler for inflammation-to-cardiovascular risk research.
