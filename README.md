@@ -1,4 +1,4 @@
-<h1 align="center">Ziying Huo · 霍梓盈</h1>
+<h1 align="center">Zoya Huo</h1>
 
 <p align="center">
   PhD researcher (AI4BioImaging) · <strong>University of Manchester</strong>, Faculty of Biology, Medicine and Health<br/>
@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://azusa-dom.github.io/zoyahuo-site/">Website</a> ·
-  <a href="https://orcid.org/0009-0003-1090-8784">ORCID</a> ·
-  <a href="mailto:ziying.huo@postgrad.manchester.ac.uk">Email</a>
+  <a href="https://orcid.org/0009-0003-1090-8784">ORCID</a>
 </p>
 
 ---
