@@ -13,13 +13,14 @@
 
 ---
 
-I work on myocardial motion estimation and regional strain measurement from cine cardiac MRI. Images supply observations, point-to-point correspondence is inferred by an estimator, and a strain value further depends on its measurement definition, so validation has to match the specific claim it is meant to support. My current question is how large a change in regional strain between two serial scans has to be before it counts as real.
+I work on myocardial motion estimation and regional strain measurement from cine cardiac MRI. Images supply observations, point-to-point correspondence is inferred by an estimator, and a strain value further depends on its measurement definition, so validation has to match the specific claim it is meant to support. My PhD question is not final yet; the candidates are described below.
 
 ### Current work
 
-- **Repeatability of regional strain** (in progress): break the variability down by motion estimation, strain definition and scan-to-scan differences, and estimate the minimal detectable change.
-- **Methods review of regional motion and strain from routine cine CMR** (writing, unpublished): the literature organised by image information, estimator constraints, strain definition and validation target.
+- **Critical narrative review: from routine cine CMR to regional myocardial dysfunction** (final draft October 2026, unpublished): which attributes of a regional abnormality (magnitude, location, extent, timing) have been shown to be measured from routine cine accurately enough for an intended use.
+- **Exploratory work on regional motion and strain**: single-case processing and quality control on public DENSE reference data and controlled simulations; no accuracy conclusion yet.
 - **Conditional recoverability** (a framework I propose, not yet validated): under declared conditions, can regional strain magnitude, location, extent and timing be recovered against a reference and a tolerance?
+- **Candidate directions**: the repeatability of regional strain in serial imaging (minimal detectable change), and cardiac imaging in rheumatic diseases such as axial spondyloarthritis (axSpA).
 
 ### Selected repositories
 
